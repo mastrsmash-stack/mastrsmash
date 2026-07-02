@@ -446,7 +446,7 @@ export default function App() {
                           <span className="font-extrabold text-sm">دبل (Double)</span>
                           <span className="text-[10px] text-brand-gray/80 mt-0.5">شريحتين لحم وجبن</span>
                         </div>
-                        <span className="font-black text-lg text-brand-yellow">{selectedItem.prices.double} ر.s</span>
+                        <span className="font-black text-lg text-brand-yellow">{selectedItem.prices.double} دينار</span>
                       </button>
                     </div>
                   </div>
